@@ -5,6 +5,11 @@ a {
   text-decoration: none;
   color: azure;
 }
+
 body {
   background-color: beige;
+}
+.btn {
+  background-color: rgb(239, 149, 21);
+  border-color: rgb(236, 154, 54);
 }
